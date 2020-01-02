@@ -1,5 +1,5 @@
 # jackson-service
-this is a simple springbok application using Jackson
+* this is a simple springbok application using Jackson
 
 maven project
 
